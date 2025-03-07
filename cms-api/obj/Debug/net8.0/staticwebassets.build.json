@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KoE3jNj2IE+gie+F/hgaeIiCmrlKLBU0rG1hncwx2E4=",
+  "Source": "cms-api",
+  "BasePath": "_content/cms-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
